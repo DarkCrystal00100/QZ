@@ -1380,6 +1380,11 @@ div .media{
    background: transparent;
 }
 
+.head_img,
+   .head_lgb{
+      display: none;
+   }
+
    .home,
    .serve {
       display: flex;

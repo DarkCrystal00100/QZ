@@ -909,7 +909,7 @@ section {
    justify-content: center;
    display: flex;
    font-size: 20px;
-   font-family: "Chakra Petch";
+   font-family: "Salsa";
 }
 
 .mess a {
@@ -958,7 +958,7 @@ section {
    justify-content: center;
    display: flex;
    font-size: 20px;
-   font-family: "Chakra Petch";
+   font-family: "Salsa";
 }
 
 .dis a {
@@ -1004,7 +1004,7 @@ section {
    justify-content: center;
    display: flex;
    font-size: 20px;
-   font-family: "Chakra Petch";
+   font-family: Salsa";
 }
 
 .ins a {
@@ -1051,7 +1051,7 @@ form textarea {
 
 #ym {
    padding: 1rem 1rem;
-   font-family: "Chakra Petch", sans-serif;
+   font-family: "Salsa", sans-serif;
    font-weight: 900;
    font-size: 15px;
 }
@@ -1059,7 +1059,7 @@ form textarea {
 
 #yn {
    padding: 1.5rem 1rem;
-   font-family: "Chakra Petch", sans-serif;
+   font-family: "Salsa", sans-serif;
    font-weight: 900;
    font-size: 15px;
    margin-top: -20px;
@@ -1067,14 +1067,14 @@ form textarea {
 
 #ye {
    padding: 1.5rem 1rem;
-   font-family: "Chakra Petch", sans-serif;
+   font-family: "Salsa", sans-serif;
    font-weight: 900;
    font-size: 15px
 }
 
 #sub {
    padding: 1.5rem 1rem;
-   font-family: "Chakra Petch", sans-serif;
+   font-family: "Salsa", sans-serif;
    font-weight: 900;
    font-size: 15px
 }

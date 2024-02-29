@@ -460,7 +460,7 @@ section {
 }
 
 .skill-bar .bar .c {
-   width: 93%;
+   width: 83%;
    animation: c 3s;
 }
 
@@ -909,7 +909,7 @@ section {
    justify-content: center;
    display: flex;
    font-size: 20px;
-   font-family: "Salsa";
+   font-family: "Chakra Petch";
 }
 
 .mess a {
@@ -958,7 +958,7 @@ section {
    justify-content: center;
    display: flex;
    font-size: 20px;
-   font-family: "Salsa";
+   font-family: "Chakra Petch";
 }
 
 .dis a {
@@ -1004,7 +1004,7 @@ section {
    justify-content: center;
    display: flex;
    font-size: 20px;
-   font-family: "Salsa";
+   font-family: "Chakra Petch";
 }
 
 .ins a {
@@ -1051,7 +1051,7 @@ form textarea {
 
 #ym {
    padding: 1rem 1rem;
-   font-family: "Salsa", sans-serif;
+   font-family: "Chakra Petch", sans-serif;
    font-weight: 900;
    font-size: 15px;
 }
@@ -1059,7 +1059,7 @@ form textarea {
 
 #yn {
    padding: 1.5rem 1rem;
-   font-family: "Salsa", sans-serif;
+   font-family: "Chakra Petch", sans-serif;
    font-weight: 900;
    font-size: 15px;
    margin-top: -20px;
@@ -1067,14 +1067,14 @@ form textarea {
 
 #ye {
    padding: 1.5rem 1rem;
-   font-family: "Salsa", sans-serif;
+   font-family: "Chakra Petch", sans-serif;
    font-weight: 900;
    font-size: 15px
 }
 
 #sub {
    padding: 1.5rem 1rem;
-   font-family: "Salsa", sans-serif;
+   font-family: "Chakra Petch", sans-serif;
    font-weight: 900;
    font-size: 15px
 }
@@ -1087,7 +1087,7 @@ form textarea {
    padding: .5rem .5rem;
    border: 2px solid var(--text-color);
    border-radius: 5px;
-   font-family: "Salsa", sans-serif;
+   font-family: "Chakra Petch", sans-serif;
    font-weight: 900;
    font-size: 15px;
 }
@@ -1380,11 +1380,6 @@ div .media{
    background: transparent;
 }
 
-.head_img,
-   .head_lgb{
-      display: none;
-   }
-
    .home,
    .serve {
       display: flex;
@@ -1418,7 +1413,7 @@ div .media{
       line-height: unset;
       font-size: unset;
       text-align: center;
-      padding: 60px 0;
+      padding: 50px 0;
    }
    .about-me h1{
      font-size: 20px;
